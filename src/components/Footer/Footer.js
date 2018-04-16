@@ -10,30 +10,13 @@ const Footer = () => (
 
             {/**First column*/}
             <div className="col-md-6">
-                <h5 className="text-uppercase">Footer Content</h5>
-                <div className="bottom"> Clicky Game! <div className="bottom">Clicky Game! <img alt="react" src="assets/images/react.svg"></img></div> </div>
-                <p>Here you can use rows and columns here to organize your footer content.</p>
+                <div className="bottom"> <div className="bottom"> </div> 
+                </div>
+                <p></p>
             </div>
             {/**.First column */}
 
-            {/**Second column*/}
-            <div className="col-md-6">
-                <h5 className="text-uppercase">Links</h5>
-                <ul className="list-unstyled">
-                    <li>
-                        <a href="#!">Link 1</a>
-                    </li>
-                    <li>
-                        <a href="#!">Link 2</a>
-                    </li>
-                    <li>
-                        <a href="#!">Link 3</a>
-                    </li>
-                    <li>
-                        <a href="#!">Link 4</a>
-                    </li>
-                </ul>
-            </div>
+           
             {/**.Second column */}
         </div>
     </div>

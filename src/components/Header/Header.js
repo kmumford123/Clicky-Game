@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Header extends Component {
     render() {
-        const array = [30000, 2];
+        // const array = [30000, 2];
         return (
             <div className="container">
                 <header className="header">
